@@ -28,4 +28,6 @@ data dikirimkan perbit persatuan waktu. tiap simbol yang dikirimkan mempunyai st
 untuk melakukan sinkronisasi dari suatu device pengirim dan penerima. interval yang terjadi antar satu 
 karakter dengan karakter lainnya dapat bervariasi.  asynchronous merupakan operasi yang tidak bergantung waktu.
 
-Link Direktori Promie : https://github.com/lilyastri/pbd-asynch/tree/master/promise
+Link Direktori Promise : https://github.com/lilyastri/pbd-asynch/tree/master/promise
+Link Direktori callback : https://github.com/lilyastri/pbd-asynch/tree/master/callback
+Link Direktori async-await : https://github.com/lilyastri/pbd-asynch/tree/master/async-await
