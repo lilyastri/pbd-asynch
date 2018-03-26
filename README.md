@@ -27,3 +27,5 @@ cukup relatif dan tidak tetap. metode komunikasi serial dari satu perangkat ke p
 data dikirimkan perbit persatuan waktu. tiap simbol yang dikirimkan mempunyai start bit dan stop bit, 
 untuk melakukan sinkronisasi dari suatu device pengirim dan penerima. interval yang terjadi antar satu 
 karakter dengan karakter lainnya dapat bervariasi.  asynchronous merupakan operasi yang tidak bergantung waktu.
+
+Link Direktori Promie : https://github.com/lilyastri/pbd-asynch/tree/master/promise
